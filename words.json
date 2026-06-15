@@ -1,0 +1,1472 @@
+{
+    "абитуриент": {
+        "word_with_gap": "аб...туриент",
+        "correct_letter": "и",
+        "variants": ["е", "и", "а"]
+    },
+    "абонемент": {
+        "word_with_gap": "аб...немент",
+        "correct_letter": "о",
+        "variants": ["а", "о", "е"]
+    },
+    "абрикос": {
+        "word_with_gap": "абр...кос",
+        "correct_letter": "и",
+        "variants": ["а", "е", "и"]
+    },
+    "академия": {
+        "word_with_gap": "ак...демия",
+        "correct_letter": "а",
+        "variants": ["а", "о", "е"]
+    },
+    "аквамарин": {
+        "word_with_gap": "акв...марин",
+        "correct_letter": "а",
+        "variants": ["о", "а", "е"]
+    },
+    "акварель": {
+        "word_with_gap": "акв...рель",
+        "correct_letter": "а",
+        "variants": ["е", "о", "а"]
+    },
+    "аккомпанемент": {
+        "word_with_gap": "акк...мпанемент",
+        "correct_letter": "о",
+        "variants": ["о", "а", "е"]
+    },
+    "аннотация": {
+        "word_with_gap": "анн...тация",
+        "correct_letter": "о",
+        "variants": ["а", "о", "е"]
+    },
+    "антресоли": {
+        "word_with_gap": "антрес...ли",
+        "correct_letter": "о",
+        "variants": ["е", "а", "о"]
+    },
+    "апелляция": {
+        "word_with_gap": "ап...лляция",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "аплодировать": {
+        "word_with_gap": "апл...дировать",
+        "correct_letter": "о",
+        "variants": ["о", "а", "е"]
+    },
+    "аппаратура": {
+        "word_with_gap": "апп...ратура",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "аппетит": {
+        "word_with_gap": "апп...тит",
+        "correct_letter": "е",
+        "variants": ["е", "и", "а"]
+    },
+    "аромат": {
+        "word_with_gap": "ар...мат",
+        "correct_letter": "о",
+        "variants": ["а", "о", "е"]
+    },
+    "архитектор": {
+        "word_with_gap": "арх...тектор",
+        "correct_letter": "и",
+        "variants": ["и", "е", "а"]
+    },
+    "асфальт": {
+        "word_with_gap": "асф...льт",
+        "correct_letter": "а",
+        "variants": ["о", "а", "е"]
+    },
+    "атмосфера": {
+        "word_with_gap": "атм...сфера",
+        "correct_letter": "о",
+        "variants": ["о", "а", "е"]
+    },
+    "аттракцион": {
+        "word_with_gap": "аттр...кцион",
+        "correct_letter": "а",
+        "variants": ["а", "о", "е"]
+    },
+    "аукцион": {
+        "word_with_gap": "аукц...он",
+        "correct_letter": "и",
+        "variants": ["е", "и", "а"]
+    },
+    "багаж": {
+        "word_with_gap": "б...гаж",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "багровый": {
+        "word_with_gap": "багр...вый",
+        "correct_letter": "о",
+        "variants": ["о", "а", "е"]
+    },
+    "бадминтон": {
+        "word_with_gap": "бадм...нтон",
+        "correct_letter": "и",
+        "variants": ["е", "и", "а"]
+    },
+    "баланс": {
+        "word_with_gap": "б...ланс",
+        "correct_letter": "а",
+        "variants": ["а", "о", "е"]
+    },
+    "балкон": {
+        "word_with_gap": "б...лкон",
+        "correct_letter": "а",
+        "variants": ["о", "а", "е"]
+    },
+    "барельеф": {
+        "word_with_gap": "бар...льеф",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "баскетбол": {
+        "word_with_gap": "баск...тбол",
+        "correct_letter": "е",
+        "variants": ["е", "и", "а"]
+    },
+    "бассейн": {
+        "word_with_gap": "басс...йн",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "берёза": {
+        "word_with_gap": "б...рёза",
+        "correct_letter": "е",
+        "variants": ["е", "и", "а"]
+    },
+    "бирюзовый": {
+        "word_with_gap": "бир...зовый",
+        "correct_letter": "ю",
+        "variants": ["ю", "у", "е"]
+    },
+    "богатый": {
+        "word_with_gap": "б...гатый",
+        "correct_letter": "о",
+        "variants": ["о", "а", "е"]
+    },
+    "богатырь": {
+        "word_with_gap": "бог...тырь",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "брошюра": {
+        "word_with_gap": "брош...ра",
+        "correct_letter": "ю",
+        "variants": ["у", "а", "ю"]
+    },
+    "бюллетень": {
+        "word_with_gap": "бюлл...тень",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "вакцина": {
+        "word_with_gap": "вакц...на",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "вариант": {
+        "word_with_gap": "вар...ант",
+        "correct_letter": "и",
+        "variants": ["и", "е", "а"]
+    },
+    "велосипед": {
+        "word_with_gap": "в...лосипед",
+        "correct_letter": "е",
+        "variants": ["а", "и", "е"]
+    },
+    "вентилятор": {
+        "word_with_gap": "вент...лятор",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "вермишель": {
+        "word_with_gap": "верм...шель",
+        "correct_letter": "и",
+        "variants": ["и", "е", "а"]
+    },
+    "вестибюль": {
+        "word_with_gap": "вест...бюль",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "ветеран": {
+        "word_with_gap": "в...теран",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "винегрет": {
+        "word_with_gap": "вин...грет",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "виртуальный": {
+        "word_with_gap": "вирт...альный",
+        "correct_letter": "у",
+        "variants": ["а", "о", "у"]
+    },
+    "виртуоз": {
+        "word_with_gap": "вирт...оз",
+        "correct_letter": "у",
+        "variants": ["о", "а", "у"]
+    },
+    "витраж": {
+        "word_with_gap": "в...траж",
+        "correct_letter": "и",
+        "variants": ["и", "е", "а"]
+    },
+    "владелец": {
+        "word_with_gap": "вл...делец",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "возражать": {
+        "word_with_gap": "возр...жать",
+        "correct_letter": "а",
+        "variants": ["а", "о", "е"]
+    },
+    "вокзал": {
+        "word_with_gap": "вокз...л",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "волейбол": {
+        "word_with_gap": "вол...йбол",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "воображать": {
+        "word_with_gap": "вообр...жать",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "впечатление": {
+        "word_with_gap": "впеч...тление",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "выразительный": {
+        "word_with_gap": "выраз...тельный",
+        "correct_letter": "и",
+        "variants": ["и", "е", "а"]
+    },
+    "газон": {
+        "word_with_gap": "г...зон",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "галактика": {
+        "word_with_gap": "гал...ктика",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "галерея": {
+        "word_with_gap": "гал...рея",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "гармония": {
+        "word_with_gap": "гарм...ния",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "гарнизон": {
+        "word_with_gap": "гарн...зон",
+        "correct_letter": "и",
+        "variants": ["и", "е", "а"]
+    },
+    "геолог": {
+        "word_with_gap": "ге...лог",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "герой": {
+        "word_with_gap": "г...рой",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "гипотеза": {
+        "word_with_gap": "гип...теза",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "гормон": {
+        "word_with_gap": "горм...н",
+        "correct_letter": "о",
+        "variants": ["о", "а", "е"]
+    },
+    "горизонт": {
+        "word_with_gap": "гор...зонт",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "грамматика": {
+        "word_with_gap": "грамм...тика",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "грамота": {
+        "word_with_gap": "гр...мота",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "громадный": {
+        "word_with_gap": "гром...дный",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "громоздкий": {
+        "word_with_gap": "гром...здкий",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "дебаты": {
+        "word_with_gap": "д...баты",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "декларация": {
+        "word_with_gap": "декл...рация",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "декорация": {
+        "word_with_gap": "дек...рация",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "деликатес": {
+        "word_with_gap": "дел...катес",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "деликатный": {
+        "word_with_gap": "дел...катный",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "демократ": {
+        "word_with_gap": "дем...крат",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "демонстрировать": {
+        "word_with_gap": "демонстр...ровать",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "диалог": {
+        "word_with_gap": "ди...лог",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "диапазон": {
+        "word_with_gap": "диап...зон",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "динамика": {
+        "word_with_gap": "дин...мика",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "дирижёр": {
+        "word_with_gap": "дир...жёр",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "диспетчер": {
+        "word_with_gap": "дисп...тчер",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "дистанция": {
+        "word_with_gap": "дист...нция",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "дисциплина": {
+        "word_with_gap": "дисц...плина",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "желание": {
+        "word_with_gap": "жел...ние",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "жираф": {
+        "word_with_gap": "ж...раф",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "жокей": {
+        "word_with_gap": "ж...кей",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "жонглёр": {
+        "word_with_gap": "жонгл...р",
+        "correct_letter": "ё",
+        "variants": ["е", "о", "ё"]
+    },
+    "жюри": {
+        "word_with_gap": "ж...ри",
+        "correct_letter": "ю",
+        "variants": ["у", "а", "ю"]
+    },
+    "знакомый": {
+        "word_with_gap": "зн...комый",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "знаменитый": {
+        "word_with_gap": "знам...нитый",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "идеал": {
+        "word_with_gap": "ид...ал",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "иждивенец": {
+        "word_with_gap": "ижд...венец",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "иллюзия": {
+        "word_with_gap": "илл...зия",
+        "correct_letter": "ю",
+        "variants": ["у", "а", "ю"]
+    },
+    "индивид": {
+        "word_with_gap": "инд...вид",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "иней": {
+        "word_with_gap": "ин...й",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "инженер": {
+        "word_with_gap": "инж...нер",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "инициатива": {
+        "word_with_gap": "иниц...атива",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "интеллект": {
+        "word_with_gap": "интелл...кт",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "интеллигент": {
+        "word_with_gap": "интелл...гент",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "интенсивный": {
+        "word_with_gap": "интенс...вный",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "интерьер": {
+        "word_with_gap": "инт...рьер",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "исказить": {
+        "word_with_gap": "иск...зить",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "истина": {
+        "word_with_gap": "ист...на",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "кампания": {
+        "word_with_gap": "к...мпания",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "каникулы": {
+        "word_with_gap": "кан...кулы",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "канитель": {
+        "word_with_gap": "кан...тель",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "канонада": {
+        "word_with_gap": "канон...да",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "канцелярия": {
+        "word_with_gap": "канц...лярия",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "капюшон": {
+        "word_with_gap": "кап...шон",
+        "correct_letter": "ю",
+        "variants": ["у", "а", "ю"]
+    },
+    "кардинальный": {
+        "word_with_gap": "кард...нальный",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "карикатура": {
+        "word_with_gap": "кар...катура",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "катастрофа": {
+        "word_with_gap": "кат...строфа",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "квалификация": {
+        "word_with_gap": "квал...фикация",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "квитанция": {
+        "word_with_gap": "кв...танция",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "кинематограф": {
+        "word_with_gap": "кин...матограф",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "коварный": {
+        "word_with_gap": "ков...рный",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "колдун": {
+        "word_with_gap": "колд...н",
+        "correct_letter": "у",
+        "variants": ["а", "о", "у"]
+    },
+    "коллектив": {
+        "word_with_gap": "колл...ктив",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "коллекция": {
+        "word_with_gap": "колл...кция",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "колоссальный": {
+        "word_with_gap": "кол...ссальный",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "комбинация": {
+        "word_with_gap": "комб...нация",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "комедия": {
+        "word_with_gap": "ком...дия",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "компания": {
+        "word_with_gap": "комп...ния",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "компетентный": {
+        "word_with_gap": "комп...тентный",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "компонент": {
+        "word_with_gap": "комп...нент",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "компьютер": {
+        "word_with_gap": "компь...тер",
+        "correct_letter": "ю",
+        "variants": ["у", "е", "ю"]
+    },
+    "комфорт": {
+        "word_with_gap": "комф...рт",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "конверт": {
+        "word_with_gap": "конв...рт",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "конкурент": {
+        "word_with_gap": "конкур...нт",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "континент": {
+        "word_with_gap": "конт...нент",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "конференция": {
+        "word_with_gap": "конф...ренция",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "конфликт": {
+        "word_with_gap": "конфл...кт",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "конфорка": {
+        "word_with_gap": "конф...рка",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "корифей": {
+        "word_with_gap": "кор...фей",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "коричневый": {
+        "word_with_gap": "кор...чневый",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "корзина": {
+        "word_with_gap": "корз...на",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "король": {
+        "word_with_gap": "кор...ль",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "космос": {
+        "word_with_gap": "к...смос",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "кромешный": {
+        "word_with_gap": "кром...шный",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "лабиринт": {
+        "word_with_gap": "лаб...ринт",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "легенда": {
+        "word_with_gap": "л...генда",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "лелеять": {
+        "word_with_gap": "л...леять",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "либерал": {
+        "word_with_gap": "либ...рал",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "мажор": {
+        "word_with_gap": "м...жор",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "материал": {
+        "word_with_gap": "мат...риал",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "мгновение": {
+        "word_with_gap": "мгн...вение",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "менталитет": {
+        "word_with_gap": "мент...литет",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "меридиан": {
+        "word_with_gap": "мер...диан",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "мероприятие": {
+        "word_with_gap": "меропр...ятие",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "метафора": {
+        "word_with_gap": "мет...фора",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "механизм": {
+        "word_with_gap": "мех...низм",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "минерал": {
+        "word_with_gap": "мин...рал",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "минор": {
+        "word_with_gap": "м...нор",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "монолит": {
+        "word_with_gap": "мон...лит",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "мораторий": {
+        "word_with_gap": "мор...торий",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "мотив": {
+        "word_with_gap": "м...тив",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "мятеж": {
+        "word_with_gap": "м...теж",
+        "correct_letter": "я",
+        "variants": ["е", "и", "я"]
+    },
+    "наваждение": {
+        "word_with_gap": "нав...ждение",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "насекомые": {
+        "word_with_gap": "нас...комые",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "наслаждаться": {
+        "word_with_gap": "насл...ждаться",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "недосягаемый": {
+        "word_with_gap": "недосяг...емый",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "новелла": {
+        "word_with_gap": "нов...лла",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "обаяние": {
+        "word_with_gap": "об...яние",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "обитать": {
+        "word_with_gap": "об...тать",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "обнаружить": {
+        "word_with_gap": "обн...ружить",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "обоняние": {
+        "word_with_gap": "об...няние",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "оборона": {
+        "word_with_gap": "обор...на",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "одолеть": {
+        "word_with_gap": "од...леть",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "озорной": {
+        "word_with_gap": "оз...рной",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "опекун": {
+        "word_with_gap": "оп...кун",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "оптимист": {
+        "word_with_gap": "опт...мист",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "оранжерея": {
+        "word_with_gap": "оранж...рея",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "орбита": {
+        "word_with_gap": "орб...та",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "организовать": {
+        "word_with_gap": "орг...низовать",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "оригинальный": {
+        "word_with_gap": "ор...гинальный",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "ориентир": {
+        "word_with_gap": "ор...ентир",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "орнамент": {
+        "word_with_gap": "орн...мент",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "осторожный": {
+        "word_with_gap": "остор...жный",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "офицер": {
+        "word_with_gap": "оф...цер",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "ошеломить": {
+        "word_with_gap": "ош...ломить",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "палисадник": {
+        "word_with_gap": "пал...садник",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "палитра": {
+        "word_with_gap": "пал...тра",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "панорама": {
+        "word_with_gap": "пан...рама",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "панцирь": {
+        "word_with_gap": "п...нцирь",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "параграф": {
+        "word_with_gap": "пар...граф",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "парадокс": {
+        "word_with_gap": "пар...докс",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "парашют": {
+        "word_with_gap": "пар...шют",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "патриот": {
+        "word_with_gap": "патр...от",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "пейзаж": {
+        "word_with_gap": "п...йзаж",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "перила": {
+        "word_with_gap": "п...рила",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "период": {
+        "word_with_gap": "п...риод",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "пессимист": {
+        "word_with_gap": "песс...мист",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "подлинный": {
+        "word_with_gap": "подл...нный",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "подражать": {
+        "word_with_gap": "подр...жать",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "позиция": {
+        "word_with_gap": "поз...ция",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "покой": {
+        "word_with_gap": "п...кой",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "поколение": {
+        "word_with_gap": "пок...ление",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "полемика": {
+        "word_with_gap": "пол...мика",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "полировать": {
+        "word_with_gap": "пол...ровать",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "поражать": {
+        "word_with_gap": "пор...жать",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "посещать": {
+        "word_with_gap": "пос...щать",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "правило": {
+        "word_with_gap": "пр...вило",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "предварительный": {
+        "word_with_gap": "предв...рительный",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "презентация": {
+        "word_with_gap": "през...нтация",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "президент": {
+        "word_with_gap": "през...дент",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "президиум": {
+        "word_with_gap": "през...диум",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "преобразить": {
+        "word_with_gap": "преобр...зить",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "преодолеть": {
+        "word_with_gap": "преод...леть",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "прецедент": {
+        "word_with_gap": "прец...дент",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "привилегия": {
+        "word_with_gap": "прив...легия",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "примитивный": {
+        "word_with_gap": "прим...тивный",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "приоритет": {
+        "word_with_gap": "приор...тет",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "провинция": {
+        "word_with_gap": "пров...нция",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "провоцировать": {
+        "word_with_gap": "провоц...ровать",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "проницательный": {
+        "word_with_gap": "прон...цательный",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "радиатор": {
+        "word_with_gap": "рад...атор",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "рациональный": {
+        "word_with_gap": "рац...ональный",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "реалист": {
+        "word_with_gap": "ре...лист",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "режиссёр": {
+        "word_with_gap": "реж...ссёр",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "резидент": {
+        "word_with_gap": "рез...дент",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "резиденция": {
+        "word_with_gap": "рез...денция",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "ремесло": {
+        "word_with_gap": "р...месло",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "реставрация": {
+        "word_with_gap": "рест...врация",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "реферат": {
+        "word_with_gap": "реф...рат",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "реформа": {
+        "word_with_gap": "реф...рма",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "рецензия": {
+        "word_with_gap": "рец...нзия",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "риторика": {
+        "word_with_gap": "рит...рика",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "ровесник": {
+        "word_with_gap": "ров...сник",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "романтичный": {
+        "word_with_gap": "ром...нтичный",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "салют": {
+        "word_with_gap": "с...лют",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "сатира": {
+        "word_with_gap": "сат...ра",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "свидетель": {
+        "word_with_gap": "св...детель",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "сезон": {
+        "word_with_gap": "с...зон",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "симпатия": {
+        "word_with_gap": "симп...тия",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "симптом": {
+        "word_with_gap": "симпт...м",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "симфония": {
+        "word_with_gap": "симф...ния",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "синхронный": {
+        "word_with_gap": "синхр...нный",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "сирень": {
+        "word_with_gap": "с...рень",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "система": {
+        "word_with_gap": "сист...ма",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "смятение": {
+        "word_with_gap": "см...тение",
+        "correct_letter": "я",
+        "variants": ["е", "а", "я"]
+    },
+    "снарядить": {
+        "word_with_gap": "снар...дить",
+        "correct_letter": "я",
+        "variants": ["е", "а", "я"]
+    },
+    "сокровенный": {
+        "word_with_gap": "сокр...венный",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "сонет": {
+        "word_with_gap": "с...нет",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "сострадать": {
+        "word_with_gap": "состр...дать",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "состязаться": {
+        "word_with_gap": "сост...заться",
+        "correct_letter": "я",
+        "variants": ["е", "а", "я"]
+    },
+    "социальный": {
+        "word_with_gap": "соц...альный",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "спартакиада": {
+        "word_with_gap": "спартак...ада",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "спокойный": {
+        "word_with_gap": "сп...койный",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "стадион": {
+        "word_with_gap": "стад...он",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "стипендия": {
+        "word_with_gap": "стип...ндия",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "страховать": {
+        "word_with_gap": "страх...вать",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "стремиться": {
+        "word_with_gap": "стрем...ться",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "суверенитет": {
+        "word_with_gap": "сувер...нитет",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "сувенир": {
+        "word_with_gap": "сув...нир",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "талант": {
+        "word_with_gap": "т...лант",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "теория": {
+        "word_with_gap": "те...рия",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "территория": {
+        "word_with_gap": "терр...тория",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "торжество": {
+        "word_with_gap": "торж...ство",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "традиция": {
+        "word_with_gap": "трад...ция",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "трафарет": {
+        "word_with_gap": "траф...рет",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "тревога": {
+        "word_with_gap": "тр...вога",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "трамвай": {
+        "word_with_gap": "трамв...й",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "троллейбус": {
+        "word_with_gap": "тролл...йбус",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "тростник": {
+        "word_with_gap": "трост...ик",
+        "correct_letter": "н",
+        "variants": ["е", "а", "н"]
+    },
+    "тротуар": {
+        "word_with_gap": "трот...ар",
+        "correct_letter": "у",
+        "variants": ["а", "о", "у"]
+    },
+    "университет": {
+        "word_with_gap": "унив...рситет",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "уникальный": {
+        "word_with_gap": "ун...кальный",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "уничтожить": {
+        "word_with_gap": "уничт...жить",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "утрамбовать": {
+        "word_with_gap": "утрамб...вать",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "фантастика": {
+        "word_with_gap": "фант...стика",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "фестиваль": {
+        "word_with_gap": "фест...валь",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "фигура": {
+        "word_with_gap": "фиг...ра",
+        "correct_letter": "у",
+        "variants": ["а", "о", "у"]
+    },
+    "финансы": {
+        "word_with_gap": "фин...нсы",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "фиолетовый": {
+        "word_with_gap": "фиол...товый",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "фрагмент": {
+        "word_with_gap": "фрагм...нт",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "фразеология": {
+        "word_with_gap": "фразе...логия",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "хаос": {
+        "word_with_gap": "х...ос",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "характер": {
+        "word_with_gap": "хар...ктер",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "цемент": {
+        "word_with_gap": "ц...мент",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "цивилизация": {
+        "word_with_gap": "цив...лизация",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "циклон": {
+        "word_with_gap": "цикл...н",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "цилиндр": {
+        "word_with_gap": "цил...ндр",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "цистерна": {
+        "word_with_gap": "цист...рна",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "цитата": {
+        "word_with_gap": "цит...та",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    },
+    "человек": {
+        "word_with_gap": "ч...ловек",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "чемпион": {
+        "word_with_gap": "чемп...он",
+        "correct_letter": "и",
+        "variants": ["е", "а", "и"]
+    },
+    "шеренга": {
+        "word_with_gap": "шер...нга",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "шоколад": {
+        "word_with_gap": "шок...лад",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "шоссе": {
+        "word_with_gap": "ш...ссе",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "шофёр": {
+        "word_with_gap": "ш...фёр",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "эволюция": {
+        "word_with_gap": "эвол...ция",
+        "correct_letter": "ю",
+        "variants": ["у", "а", "ю"]
+    },
+    "экономика": {
+        "word_with_gap": "эк...номика",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "эксперимент": {
+        "word_with_gap": "эксп...римент",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "экспонат": {
+        "word_with_gap": "эксп...нат",
+        "correct_letter": "о",
+        "variants": ["а", "е", "о"]
+    },
+    "экстремальный": {
+        "word_with_gap": "экстр...мальный",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "электроника": {
+        "word_with_gap": "эл...ктроника",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "энциклопедия": {
+        "word_with_gap": "энциклоп...дия",
+        "correct_letter": "е",
+        "variants": ["и", "а", "е"]
+    },
+    "эстакада": {
+        "word_with_gap": "эст...када",
+        "correct_letter": "а",
+        "variants": ["о", "е", "а"]
+    }
+}
