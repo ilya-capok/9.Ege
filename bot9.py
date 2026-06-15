@@ -11,7 +11,7 @@ from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters.state import State, StatesGroup
 
 # 👇 ВСТАВЬТЕ ВАШ ТОКЕН ОТ @BotFather
-BOT_TOKEN = "ВАШ_ТОКЕН"
+BOT_TOKEN = "8812645211:AAGe7Y3L4HKOQhJzPaR2iLPvsvfY0WLDtto"
 
 # Файл для сохранения ошибок
 MISTAKES_FILE = "user_mistakes.json"
